@@ -143,7 +143,7 @@ def get_firstsession(url, i, folder_path, decoder, use_punct_replace=False):
             mapping_dict = decoder.recognize_font(font_file_path)
             if mapping_dict and len(set(mapping_dict.values())) >= 10:
                 input_file = f'{title}.txt'
-                output_file = f'第{i}节{title}.txt'
+                output_file = f'{title}.txt'
                 decoder.my_replace_text(input_file, output_file, mapping_dict, folder_path, use_punct_replace=use_punct_replace)
                 font_found = True
                 os.remove(font_file_path)
