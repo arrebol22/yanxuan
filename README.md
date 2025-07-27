@@ -45,7 +45,15 @@ python yanxuan.py <第一节链接> [--auto] [--punct]
 - 如因使用本工具造成的任何法律责任，均由使用者自行承担，作者不负任何责任。
 
 ## Star History
-<iframe style="width:100%;height:auto;min-width:600px;min-height:400px;" src="https://www.star-history.com/embed?secret=Z2l0aHViX3BhdF8xMUJCQkNUMkkwdGxsQ1FTNmZwNnlrXzVwb0RqSTE5a0FZV01uVEZLWkVwdzRsSTdkbkNDbmpZeXpGY2xVOHdteDhNUjRSRDdYU2xlWnBhdE9l#arrebol22/yanxuan&Date" frameBorder="0"></iframe>
+
+<a href="https://www.star-history.com/#arrebol22/yanxuan&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=arrebol22/yanxuan&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=arrebol22/yanxuan&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=arrebol22/yanxuan&type=Date" />
+ </picture>
+</a>
 
 ---
+
 如有问题或建议，欢迎 issue 反馈。
