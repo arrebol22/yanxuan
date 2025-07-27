@@ -1,0 +1,6 @@
+requests
+beautifulsoup4
+fonttools
+Pillow==9.5.0
+ddddocr
+argparse
