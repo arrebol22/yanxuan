@@ -44,13 +44,13 @@ python yanxuan.py <第一节链接> [--auto] [--punct]
     python yanxuan.py "https://www.zhihu.com/xen/market/remix/paid_column/1145141919810" --auto --punct
     ```
 
+## 致谢
+本项目基于 [moran69/yanxuan](https://github.com/moran69/yanxuan) 仓库的原始实现，感谢原作者的开源贡献。
+
 > [!CAUTION]
 > - 本工具仅供学习与技术交流，请勿用于任何商业或非法用途。
 > - 使用本工具下载的内容仅限个人保存和阅读，严禁传播、公开或用于其他用途。
 > - 如因使用本工具造成的任何法律责任，均由使用者自行承担，作者不负任何责任。
-
-## 致谢
-本项目基于 [moran69/yanxuan](https://github.com/moran69/yanxuan) 仓库的原始实现，感谢原作者的开源贡献。
 
 ## Star History
 
