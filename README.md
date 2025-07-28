@@ -45,7 +45,7 @@ python yanxuan.py <第一节链接> [--auto] [--punct]
     ```
 
 ## 致谢
-本项目基于 [moran69/yanxuan](https://github.com/moran69/yanxuan) 仓库的原始实现，感谢原作者的开源贡献。
+本项目基于 [moran69/yanxuan](https://github.com/moran69/yanxuan) 仓库的原始实现，感谢原作者的还原思路。
 
 > [!CAUTION]
 > - 本工具仅供学习与技术交流，请勿用于任何商业或非法用途。
